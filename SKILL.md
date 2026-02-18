@@ -1,3 +1,8 @@
+---
+name: flights
+description: CLI tool to control Tuya v3.3 light bulbs in your local network.
+metadata: {"clawdbot":{"emoji":"💡","requires":{"bins":["flights"]},"install":[{"id":"brew","kind":"brew","f    ormula":"BrewTheFox/flights/flights","bins":["flights"], "args": ["--with-binary"], "label":"Install flights (brew)"}]}}
+---
 **flights (fox-lights cli)**
 
 flights is a CLI tool to control *Tuya v3.3* light bulbs. Designed to *store multiple light bulbs in the same place*.
